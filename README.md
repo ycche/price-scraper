@@ -19,6 +19,8 @@ The analyzer looks at converting the data into a google spreadsheet using Pandas
 ## Spreadsheet
 
 The spreadsheet uses auto-formatting and auto color-coding. Price increases/decreases are color-coded as well as historical-highs and lows. It also provides information such as change over 1 day, 7 days, 1 month as well as variance in the data. 
+![image](https://user-images.githubusercontent.com/53792798/130474989-71a26fa7-3787-408b-9a06-62d1bb2714ca.png)
+
 
 # Future Ideas
 
